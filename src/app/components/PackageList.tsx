@@ -8,7 +8,13 @@ import "swiper/css/pagination";
 import {TOUR_PACKAGES} from "@/constants/dataConst";
 
 export default function PackageList() {
-    const Card = ({images, title, shortDesc, description}) => {
+    type CardProps = {
+        images: string[];
+        title: string;
+        shortDesc: string;
+        description: string;
+    };
+    const Card: React.FC<CardProps> = ({images, title, shortDesc, description}) => {
         const [expanded, setExpanded] = useState(false);
 
         return (

@@ -1,9 +1,10 @@
 import Image from "next/image";
 import {footerContent} from "@/constants/dataConst";
 import {FaFacebookF, FaInstagram, FaYoutube, FaEnvelope, FaPhone} from "react-icons/fa";
+import {ReactNode} from "react";
 
 // mapping string ke icon react
-const icons: Record<string, JSX.Element> = {
+const icons: Record<string, ReactNode> = {
     facebook: <FaFacebookF className="text-xl"/>,
     instagram: <FaInstagram className="text-xl"/>,
     youtube: <FaYoutube className="text-xl"/>,
