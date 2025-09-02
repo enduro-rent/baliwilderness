@@ -1,5 +1,7 @@
 import Container from "@/app/components/Container";
 import HeroSlider from "@/app/components/HeroSlider";
+import PackageList from "@/app/components/PackageList";
+import React from "react";
 
 export default function Home() {
     return (
@@ -21,21 +23,11 @@ export default function Home() {
                 </a>
             </section>
 
+            {/* Package Cards */}
+            <PackageList/>
+
             {/* Services */}
-            <section id="services" className="grid grid-cols-1 md:grid-cols-3 gap-6 p-12">
-                <div className="p-6 border-4 border-white brutal-shadow">
-                    <h3 className="text-3xl font-bold">🚀 Fast Performance</h3>
-                    <p className="mt-2">Optimized for speed and efficiency.</p>
-                </div>
-                <div className="p-6 border-4 border-white brutal-shadow">
-                    <h3 className="text-3xl font-bold">🎨 Unique Design</h3>
-                    <p className="mt-2">Eye-catching layouts with brutalist aesthetics.</p>
-                </div>
-                <div className="p-6 border-4 border-white brutal-shadow">
-                    <h3 className="text-3xl font-bold">🔒 Secure & Scalable</h3>
-                    <p className="mt-2">Built with the latest security standards.</p>
-                </div>
-            </section>
+
 
             {/* Process */}
             <section id="process" className="p-12 text-center">

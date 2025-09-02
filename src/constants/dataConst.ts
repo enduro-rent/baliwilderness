@@ -54,7 +54,7 @@ export const heroSlides = [
         image: "/images/hero/3.jpg",
         title: "EXPLORE THE 3",
         highlight: "ENDURO ADVENTURE",
-        subtitle: "3",
+        subtitle: "",
         button: "View tours",
         link: "/tours",
     },
@@ -117,3 +117,75 @@ export const aboutContent = {
     },
 };
 
+export const TOUR_PACKAGES = [
+    {
+        title: "Ubud Volcano Adventure",
+        images: [
+            "https://lh3.googleusercontent.com/AGNl-LGeN5fzLl3jH25Qv45g9WRCelV6k_ebLbRLyekL4pETpbKsBmKYZ-nxpb3kyk8npKuGtpvGe1yFHUG0Ix6ZircJxPskqphREdo3-oEDv9mJisSwcg=s1600",
+            "https://lh3.googleusercontent.com/LrWmQz2GI6CJAmKo9nB4Goy9AVAESJlYjTuve7NdzGbwlKQj-YCBhrnzGqBwE6Jq9rintxVi6jjlDwbQI2yn98cT8kKFL3i2KAQFltiior9VrLFeLDfD=s1600",
+            "https://lh3.googleusercontent.com/NjBoYaDPaA_LCHZ2itpuXC8raoBjI0XlQuewMU1MI80zWpVR-9kWM2x_nVGWM1EUVEPTr3N1H0xFVB_zekdYBQCQHMusfJgH_c1wcStpB_BnF2Mi7qitUA=s1600",
+            "https://lh3.googleusercontent.com/bq8jnI1qUjPDntz4ehNCGYoBSyRIHao69qucXwq8CX0HBvYB4lGwW5VY7ClEp7lyn04SSD9-JGLNe0eWckuOVTcw8sRvoI4XO_QYHdi_RmHY1UcvxDTUERY=s1600",
+        ],
+        shortDesc: "Scenic Rice Paddies - Bamboo Forest - Jungle - Volcano Dirt Bike Tour",
+        description:
+            "Embarking from our Ubud base near Tegallalang. Around 5 / 6 hours of riding with over 100 kilometres of epic tracks. Action packed Bali dirt bike tour exploring scenic rice paddies, bamboo forest, Mount Batur volcano black lava fields, Kintamani jungle, Mount Abang and a lot MORE. Guided and operated by the most professional dirt bike enduro tour operations in Asia Pacific region. Custom dirt bike riding through variety of different array of terrain, adjusted to your own pace and catered to your riding ability.",
+    },
+    {
+        title: "VOLCANO DAY RIDE",
+        images: [
+            "https://lh3.googleusercontent.com/vzrHAUkPpETFcQ-S6dy2emZZTqGVFJJDY1Aci1zTYlZMy2xG3wxya1fxTFcvZh6Vl15MwAwphWFTqi6kSAIGubolZ6kmvX2YurAY8CO1FHQLMqdoSP-Y=s1600",
+            "https://lh3.googleusercontent.com/ycIStarOg5X26CoHw7DTmt3nC5UqJqyvlwAGFHtcijBZHy5jDVo7JOi-sly7oD-IkUzrwUWeg0VoWu4ZwAlQvHb_fYJR14dU_CPGB6QETL_qAKl46Dv_=s1600",
+            "https://lh3.googleusercontent.com/39y_-vBNxJiXeKClBvn7NjgyAigTRL_jO7TjNz76fVCWoEI5tGnEfYs007YCCwYvxQ6hFGP-l0hinZcrBIMOdluBaTltxfi2kAAQvsEIyz1xenf_hMP1Yg=s1600",
+        ],
+        shortDesc: "Volcano and Jungle Trail",
+        description:
+            "Mount Batur volcano, black lava trail, Mt. Abang, Besakih jungle, some parts of Mt. Agung and more. Embarking from our Kintamani base camp overlooking the scenic Mt.Batur volcano. 5 / 6 hours of action packed, pure adventure jungle mountains volcano dirt bike tour Bali. More than 80% dirt, nature and wilderness.These original riding areas,pioneered by Bali Dirt Bike Club offering the best dirt bike riding, over some of the best technical single track as well as fast enduro section Bali has to offer. Unique Bali volcano dirt bike tour with spectacular views along the ride. Easy - medium - challenging to hard enduro, customized to your own pace and riding skill.",
+    },
+    {
+        title: "Ubud Volcano Adventure",
+        images: [
+            "https://lh3.googleusercontent.com/AGNl-LGeN5fzLl3jH25Qv45g9WRCelV6k_ebLbRLyekL4pETpbKsBmKYZ-nxpb3kyk8npKuGtpvGe1yFHUG0Ix6ZircJxPskqphREdo3-oEDv9mJisSwcg=s1600",
+            "https://lh3.googleusercontent.com/LrWmQz2GI6CJAmKo9nB4Goy9AVAESJlYjTuve7NdzGbwlKQj-YCBhrnzGqBwE6Jq9rintxVi6jjlDwbQI2yn98cT8kKFL3i2KAQFltiior9VrLFeLDfD=s1600",
+            "https://lh3.googleusercontent.com/NjBoYaDPaA_LCHZ2itpuXC8raoBjI0XlQuewMU1MI80zWpVR-9kWM2x_nVGWM1EUVEPTr3N1H0xFVB_zekdYBQCQHMusfJgH_c1wcStpB_BnF2Mi7qitUA=s1600",
+            "https://lh3.googleusercontent.com/bq8jnI1qUjPDntz4ehNCGYoBSyRIHao69qucXwq8CX0HBvYB4lGwW5VY7ClEp7lyn04SSD9-JGLNe0eWckuOVTcw8sRvoI4XO_QYHdi_RmHY1UcvxDTUERY=s1600",
+        ],
+        shortDesc: "Scenic Rice Paddies - Bamboo Forest - Jungle - Volcano Dirt Bike Tour",
+        description:
+            "Embarking from our Ubud base near Tegallalang. Around 5 / 6 hours of riding with over 100 kilometres of epic tracks. Action packed Bali dirt bike tour exploring scenic rice paddies, bamboo forest, Mount Batur volcano black lava fields, Kintamani jungle, Mount Abang and a lot MORE. Guided and operated by the most professional dirt bike enduro tour operations in Asia Pacific region. Custom dirt bike riding through variety of different array of terrain, adjusted to your own pace and catered to your riding ability.",
+    },
+    {
+        title: "VOLCANO DAY RIDE",
+        images: [
+            "https://lh3.googleusercontent.com/vzrHAUkPpETFcQ-S6dy2emZZTqGVFJJDY1Aci1zTYlZMy2xG3wxya1fxTFcvZh6Vl15MwAwphWFTqi6kSAIGubolZ6kmvX2YurAY8CO1FHQLMqdoSP-Y=s1600",
+            "https://lh3.googleusercontent.com/ycIStarOg5X26CoHw7DTmt3nC5UqJqyvlwAGFHtcijBZHy5jDVo7JOi-sly7oD-IkUzrwUWeg0VoWu4ZwAlQvHb_fYJR14dU_CPGB6QETL_qAKl46Dv_=s1600",
+            "https://lh3.googleusercontent.com/39y_-vBNxJiXeKClBvn7NjgyAigTRL_jO7TjNz76fVCWoEI5tGnEfYs007YCCwYvxQ6hFGP-l0hinZcrBIMOdluBaTltxfi2kAAQvsEIyz1xenf_hMP1Yg=s1600",
+        ],
+        shortDesc: "Volcano and Jungle Trail",
+        description:
+            "Mount Batur volcano, black lava trail, Mt. Abang, Besakih jungle, some parts of Mt. Agung and more. Embarking from our Kintamani base camp overlooking the scenic Mt.Batur volcano. 5 / 6 hours of action packed, pure adventure jungle mountains volcano dirt bike tour Bali. More than 80% dirt, nature and wilderness.These original riding areas,pioneered by Bali Dirt Bike Club offering the best dirt bike riding, over some of the best technical single track as well as fast enduro section Bali has to offer. Unique Bali volcano dirt bike tour with spectacular views along the ride. Easy - medium - challenging to hard enduro, customized to your own pace and riding skill.",
+    },
+    {
+        title: "Ubud Volcano Adventure",
+        images: [
+            "https://lh3.googleusercontent.com/AGNl-LGeN5fzLl3jH25Qv45g9WRCelV6k_ebLbRLyekL4pETpbKsBmKYZ-nxpb3kyk8npKuGtpvGe1yFHUG0Ix6ZircJxPskqphREdo3-oEDv9mJisSwcg=s1600",
+            "https://lh3.googleusercontent.com/LrWmQz2GI6CJAmKo9nB4Goy9AVAESJlYjTuve7NdzGbwlKQj-YCBhrnzGqBwE6Jq9rintxVi6jjlDwbQI2yn98cT8kKFL3i2KAQFltiior9VrLFeLDfD=s1600",
+            "https://lh3.googleusercontent.com/NjBoYaDPaA_LCHZ2itpuXC8raoBjI0XlQuewMU1MI80zWpVR-9kWM2x_nVGWM1EUVEPTr3N1H0xFVB_zekdYBQCQHMusfJgH_c1wcStpB_BnF2Mi7qitUA=s1600",
+            "https://lh3.googleusercontent.com/bq8jnI1qUjPDntz4ehNCGYoBSyRIHao69qucXwq8CX0HBvYB4lGwW5VY7ClEp7lyn04SSD9-JGLNe0eWckuOVTcw8sRvoI4XO_QYHdi_RmHY1UcvxDTUERY=s1600",
+        ],
+        shortDesc: "Scenic Rice Paddies - Bamboo Forest - Jungle - Volcano Dirt Bike Tour",
+        description:
+            "Embarking from our Ubud base near Tegallalang. Around 5 / 6 hours of riding with over 100 kilometres of epic tracks. Action packed Bali dirt bike tour exploring scenic rice paddies, bamboo forest, Mount Batur volcano black lava fields, Kintamani jungle, Mount Abang and a lot MORE. Guided and operated by the most professional dirt bike enduro tour operations in Asia Pacific region. Custom dirt bike riding through variety of different array of terrain, adjusted to your own pace and catered to your riding ability.",
+    },
+    {
+        title: "VOLCANO DAY RIDE",
+        images: [
+            "https://lh3.googleusercontent.com/vzrHAUkPpETFcQ-S6dy2emZZTqGVFJJDY1Aci1zTYlZMy2xG3wxya1fxTFcvZh6Vl15MwAwphWFTqi6kSAIGubolZ6kmvX2YurAY8CO1FHQLMqdoSP-Y=s1600",
+            "https://lh3.googleusercontent.com/ycIStarOg5X26CoHw7DTmt3nC5UqJqyvlwAGFHtcijBZHy5jDVo7JOi-sly7oD-IkUzrwUWeg0VoWu4ZwAlQvHb_fYJR14dU_CPGB6QETL_qAKl46Dv_=s1600",
+            "https://lh3.googleusercontent.com/39y_-vBNxJiXeKClBvn7NjgyAigTRL_jO7TjNz76fVCWoEI5tGnEfYs007YCCwYvxQ6hFGP-l0hinZcrBIMOdluBaTltxfi2kAAQvsEIyz1xenf_hMP1Yg=s1600",
+        ],
+        shortDesc: "Volcano and Jungle Trail",
+        description:
+            "Mount Batur volcano, black lava trail, Mt. Abang, Besakih jungle, some parts of Mt. Agung and more. Embarking from our Kintamani base camp overlooking the scenic Mt.Batur volcano. 5 / 6 hours of action packed, pure adventure jungle mountains volcano dirt bike tour Bali. More than 80% dirt, nature and wilderness.These original riding areas,pioneered by Bali Dirt Bike Club offering the best dirt bike riding, over some of the best technical single track as well as fast enduro section Bali has to offer. Unique Bali volcano dirt bike tour with spectacular views along the ride. Easy - medium - challenging to hard enduro, customized to your own pace and riding skill.",
+    },
+    // Add more packages as needed...
+];
